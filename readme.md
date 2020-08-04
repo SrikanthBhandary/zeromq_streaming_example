@@ -16,10 +16,12 @@ Consumer is responsible for recieving data from produter and sending the data to
 How to run?
 
 HOST:  192.168.43.191
-       python3 producer.py
+       
+       python3 producer.py       
        python3 consumer.py
 
 HOST:  192.168.43.94
+
        python3 collector.py
 
 Zeromq is brokerless messaging queue and it's awesome. Happy learning!
